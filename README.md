@@ -2,7 +2,7 @@
 # AWS EC2 Web Server Deployment Project
 
 ## OVERVIEW
-tHIS PROJECT DEMONSTRATES HOW TO PROVISION, CONFIGURE, SECURE, AND DEPLOY A Web server using an Amazon EC2 virtual machine.
+This project deostrates how to provision, configure, secure, and deploy a Web server using an Amazon EC2 virtual machine.
 
 The goal was to gain practical experience with AWS compute services, Linux server administration, networking, security groups, SSH access, and web server deployment.
 
