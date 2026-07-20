@@ -37,8 +37,7 @@ The goal was to gain practical experience with AWS compute services, Linux serve
                    
    ## Commands Used
    - Update server packages:            
-      - ```bash
-      - sudo dnf update -y
-      - sudo dnf install httpd -y
-      - sudo systemctl start httpd
-      - sudo systemctl enable httpd
+       - - sudo dnf update -y
+          - - sudo dnf install httpd -y
+            - - sudo systemctl start httpd
+               - - sudo systemctl enable httpd
