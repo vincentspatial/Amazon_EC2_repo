@@ -28,7 +28,6 @@ The goal was to gain practical experience with AWS compute services, Linux serve
         - User  Internet  AWS Security Group  EC2 Instance  Apache Web Server  Hosted Webpage
        
         - ## Technologies Used
-       
         - - AWS EC2
           - - Amazon Linux
             - - Linux Command Line
@@ -36,9 +35,8 @@ The goal was to gain practical experience with AWS compute services, Linux serve
                 - - Apache HTTP Server
                   - - HTML
                    
-                    - ## Commands Used
+         ## Commands Used
+        - Update server packages:
                    
-                    - Update server packages:
-                   
-                    - ```bash
-                      sudo yum update -y
+          - ```bash
+          - sudo dnf update -y
