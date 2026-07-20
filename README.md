@@ -25,7 +25,7 @@ The goal was to gain practical experience with AWS compute services, Linux serve
        
  ### Architecture
        
- User  Internet  AWS Security Group  EC2 Instance  Apache Web Server  Hosted Webpage
+ User - Internet - AWS Security Group - EC2 Instance - Apache Web Server - Hosted Webpage
        
  ## Technologies Used
   -  AWS EC2
